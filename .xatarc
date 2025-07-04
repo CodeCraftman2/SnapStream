@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Deepesh-Kumar-s-workspace-svpcu0.eu-central-1.xata.sh/db/jsm_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
